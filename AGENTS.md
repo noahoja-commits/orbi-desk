@@ -5,7 +5,8 @@ This repo is the **context and the desktop-app spec** for the Framework body of 
 - Implementation: [`noahoja-commits/orbi`](https://github.com/noahoja-commits/orbi), folder `desk/`. On this machine the checkout is `~/orbi/orbi-src` (branch `desk`).
 - Brain: the same repo's gateway, running on the Dell. Read that repo's `AGENTS.md` and `README.md` before changing behavior.
 - Protocol: `docs/DEVICE-PROTOCOL.md` in the gateway repo.
-- This repo: `README.md` (map), `CONTEXT.md` (what it does), `DESKTOP.md` (what the desktop app should look like).
+- This repo: `README.md` (map), `CONTEXT.md` (what it does), `DESKTOP.md` (what the desktop app should look like), `WIRING.md` (how that UI attaches to the body).
+- A UI build does look and motion only. It implements the methods in `WIRING.md`. It does not copy the mic, the wake word, the gateway, or the tools. Hooking it up later means swapping the HUD object, not a second protocol.
 
 ## How to work
 

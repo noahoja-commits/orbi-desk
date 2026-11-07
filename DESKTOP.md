@@ -4,7 +4,7 @@ The desktop app is the body you can see. It has two surfaces. They share one sta
 
 The ball is the product. The window is the board you open when you want to drive it by hand. A good version makes the ball feel like a person who came over to the window he is working on, and makes the board feel like a quiet desk, not a chat client with a mascot glued on.
 
-Noah builds the visual features. This file is the behavior and the shape those features have to land in.
+The visual build is look and motion only. [WIRING.md](WIRING.md) is the method list the current body already calls. That body keeps the ears, the voice, and the hands. This file is the behavior and the shape the new drawing has to land in.
 
 ## The two surfaces
 
