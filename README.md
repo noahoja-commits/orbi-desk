@@ -6,6 +6,7 @@ The running code stays in [`noahoja-commits/orbi`](https://github.com/noahoja-co
 
 | Read | For |
 |---|---|
+| [INSTRUCTIONS.md](INSTRUCTIONS.md) | The full instruction set. Start here |
 | [CONTEXT.md](CONTEXT.md) | What ORBI does, what the desk adds, a turn from wake word to answer, the device protocol, privacy, voice, and where the code lives |
 | [DESKTOP.md](DESKTOP.md) | What a good desktop app looks like: the ball, the bubble, the window, and what is free to design |
 | [WIRING.md](WIRING.md) | The seam. The new UI is look and motion. The body we have keeps the ears, the voice, and the hands, and calls the methods listed there |
